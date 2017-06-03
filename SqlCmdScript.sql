@@ -1,0 +1,5 @@
+CREATE DATABASE AdventureWorksLT ON
+(FILENAME=N'/SQLServer/AdventureWorksLT.MDF')
+FOR ATTACH;
+GO
+
